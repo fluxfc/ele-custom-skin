@@ -1,0 +1,15 @@
+{
+    "name": "fluxfc/ele-custom-skin",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/fluxfc/ele-custom-skin",
+    "authors": [
+      {
+        "name": "Flux"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.1"
+    }
+  }
